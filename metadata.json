@@ -1,0 +1,8 @@
+{
+  "name": "SunBloom",
+  "description": "A cinematic cinematic garden design simulator with AI assistance and seasonal transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
